@@ -7,3 +7,5 @@ Na seção de cartões utilizei flexbox, relembrando conceitos e aplicando conhe
 Não foi um projeto difícil de fazer, de fato achei que demoraria mais tempo para posicionar os elementos na tela e fazer a parte da responsividade, mas foi bem rápido.
 
 Foi bom rever conceitos básicos de flexbox e posicionar os elementos na tela, além de fazer a responsividade. Foi bem divertido também!
+
+Aqui fica o link para você checar o projeto: https://rafacostadev.github.io/FourCardFeatureSection/
