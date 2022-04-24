@@ -104,15 +104,23 @@ body{
 /* Media Queries */
 
 @media screen and (max-width: 1250px){
-  .cardscontainer{
-    display: block;
-  }
 
   .box{
     margin: 30px auto;
   }
 
+  .cardscontainer {
+    gap: 40px;
+    margin-top: 0;
+    display: block;
+  }
+
+  .middlecontainerholder {
+    margin: 0;
+    gap: 40px;
+  }
+
   .middlecontainerholder .karma{
-    margin-top: 0px;
+    margin-top: 0;
   }
 }
